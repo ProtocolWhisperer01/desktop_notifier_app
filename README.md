@@ -1,1 +1,5 @@
-# desktop_notifier_app
+# Desktop Notifier App
+
+---
+
+This is a simple notifier app using python :smiley: .
