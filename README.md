@@ -2,4 +2,4 @@
 
 ---
 
-This is a simple notifier app using python :smiley: .
+#### This is a simple notifier app using python :smiley: .
